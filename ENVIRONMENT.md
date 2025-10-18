@@ -9,7 +9,7 @@ Create a `.env` file in the root directory with the following variables:
 MONGODB_URI=mongodb://localhost:27017/expense-tracker
 ```
 - **Local MongoDB:** `mongodb://localhost:27017/expense-tracker`
-- **MongoDB Atlas:** `mongodb+srv://username:password@cluster.mongodb.net/expense-tracker`
+- **MongoDB Atlas:** `your Mongo URI`
 
 ### JWT Secret
 ```env
